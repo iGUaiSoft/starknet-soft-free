@@ -3,8 +3,8 @@
 # What do I need to run the software?
 In order for the software to start working, you need to:
 - Download node js Hydrogen from the official website
-- Download the project folder `git clone https://github.com/iGUaiSoft/starknet-soft-retrodrops`
-- Go to project folder `cd starknet-soft-retrodrops`
+- Download the project folder `git clone https://github.com/iGUaiSoft/starknet-soft-free`
+- Go to project folder `cd starknet-soft-free`
 - Install all dependencies by going to the project folder and running the `npm install` command
 - Have ETH on your wallet or on your OKX account
 - Add to File mm_keys.txt private keys to your Metamask accounts
